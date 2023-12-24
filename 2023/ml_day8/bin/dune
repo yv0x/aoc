@@ -1,0 +1,4 @@
+(executable
+ (public_name ml_day8)
+ (name main)
+ (libraries ml_day8 unix))

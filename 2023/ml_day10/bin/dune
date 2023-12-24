@@ -1,0 +1,4 @@
+(executable
+ (public_name ml_day10)
+ (name main)
+ (libraries ml_day10))
